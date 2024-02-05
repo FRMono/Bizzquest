@@ -1,5 +1,6 @@
 package org.Main;
-import java.util.ArrayList;
+import moves.Jugador;
+
 import java.util.Random;
 
 public class JugadorR extends Jugador {

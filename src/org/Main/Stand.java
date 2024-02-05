@@ -1,5 +1,6 @@
 package org.Main;
-import javax.management.modelmbean.ModelMBeanConstructorInfo;
+import moves.Jugador;
+
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Random;
@@ -48,7 +49,7 @@ public class Stand {
 
      static class LacrimS extends Moves {
         public LacrimS() {
-            super("Lacrim / Agua", 30);
+            super("LacrimS / Agua", 30);
         }
 
         public void ejecutar(Jugador oponente) {
@@ -70,7 +71,7 @@ public class Stand {
 
     static class CalzioS extends Moves {
         public CalzioS() {
-            super("Calzio / Fuego", 30);
+            super("CalzioS / Fuego", 30);
         }
 
         public void ejecutar(Jugador oponente) {
@@ -91,7 +92,7 @@ public class Stand {
     }
     static class FloraS extends Moves {
         public FloraS() {
-            super("Calzio / Fuego", 30);
+            super("FloraS / Planta", 30);
         }
 
         public void ejecutar(Jugador oponente) {

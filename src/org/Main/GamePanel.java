@@ -2,8 +2,12 @@ package org.Main;
 
 import Entity.*;
 
+import javax.imageio.ImageIO;
 import javax.swing.JPanel;
 import java.awt.*;
+import java.awt.image.BufferedImage;
+import java.io.IOException;
+import java.util.Objects;
 
 public class GamePanel extends JPanel implements Runnable{
     // CONFIGURACION
@@ -118,4 +122,5 @@ public class GamePanel extends JPanel implements Runnable{
 
         g2.dispose();
     }
+
 }

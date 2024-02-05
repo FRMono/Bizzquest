@@ -1,5 +1,7 @@
 package org.Main;
 
+import moves.Jugador;
+
 import java.util.Scanner;
 import javax.swing.JFrame;
 
