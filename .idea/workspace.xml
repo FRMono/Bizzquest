@@ -2,16 +2,14 @@
 <project version="4">
   <component name="ArtifactsWorkspaceSettings">
     <artifacts-to-build>
-      <artifact name="Bizzquest" />
+      <artifact name="bizzquest1:jar" />
     </artifacts-to-build>
   </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d1a75ecd-e235-473d-b413-67a772de3e57" name="Changes" comment="bizzquest1.iml">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="d1a75ecd-e235-473d-b413-67a772de3e57" name="Changes" comment="bizzquest1.iml" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -109,7 +107,7 @@
       <workItem from="1706505372604" duration="8455000" />
       <workItem from="1706562222998" duration="1316000" />
       <workItem from="1706833729900" duration="25589000" />
-      <workItem from="1707065534233" duration="11916000" />
+      <workItem from="1707065534233" duration="12242000" />
     </task>
     <task id="LOCAL-00001" summary="bizzquest1.iml">
       <option name="closed" value="true" />
@@ -135,7 +133,15 @@
       <option name="project" value="LOCAL" />
       <updated>1707151746027</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="bizzquest1.iml">
+      <option name="closed" value="true" />
+      <created>1707154090758</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1707154090758</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
